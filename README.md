@@ -9,11 +9,8 @@ Desafio - Site Android
 
 [🔗 Clique aqui para acessar](https://raquelfrancaa.github.io/projeto-android/index.html)
 
-
-
 ## 🛠 Tecnologias
 
 - HTML
 - CSS
 - Git e GitHub
-
